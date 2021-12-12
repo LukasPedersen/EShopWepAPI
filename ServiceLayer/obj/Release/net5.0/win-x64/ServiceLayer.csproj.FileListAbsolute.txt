@@ -1,0 +1,14 @@
+C:\Users\luka0591\source\repos\EShopAPIServer\ServiceLayer\bin\Release\net5.0\win-x64\ServiceLayer.deps.json
+C:\Users\luka0591\source\repos\EShopAPIServer\ServiceLayer\bin\Release\net5.0\win-x64\ServiceLayer.dll
+C:\Users\luka0591\source\repos\EShopAPIServer\ServiceLayer\bin\Release\net5.0\win-x64\ref\ServiceLayer.dll
+C:\Users\luka0591\source\repos\EShopAPIServer\ServiceLayer\bin\Release\net5.0\win-x64\ServiceLayer.pdb
+C:\Users\luka0591\source\repos\EShopAPIServer\ServiceLayer\bin\Release\net5.0\win-x64\DataLayer.dll
+C:\Users\luka0591\source\repos\EShopAPIServer\ServiceLayer\bin\Release\net5.0\win-x64\DataLayer.pdb
+C:\Users\luka0591\source\repos\EShopAPIServer\ServiceLayer\obj\Release\net5.0\win-x64\ServiceLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luka0591\source\repos\EShopAPIServer\ServiceLayer\obj\Release\net5.0\win-x64\ServiceLayer.AssemblyInfoInputs.cache
+C:\Users\luka0591\source\repos\EShopAPIServer\ServiceLayer\obj\Release\net5.0\win-x64\ServiceLayer.AssemblyInfo.cs
+C:\Users\luka0591\source\repos\EShopAPIServer\ServiceLayer\obj\Release\net5.0\win-x64\ServiceLayer.csproj.CoreCompileInputs.cache
+C:\Users\luka0591\source\repos\EShopAPIServer\ServiceLayer\obj\Release\net5.0\win-x64\ServiceLayer.csproj.CopyComplete
+C:\Users\luka0591\source\repos\EShopAPIServer\ServiceLayer\obj\Release\net5.0\win-x64\ServiceLayer.dll
+C:\Users\luka0591\source\repos\EShopAPIServer\ServiceLayer\obj\Release\net5.0\win-x64\ref\ServiceLayer.dll
+C:\Users\luka0591\source\repos\EShopAPIServer\ServiceLayer\obj\Release\net5.0\win-x64\ServiceLayer.pdb
